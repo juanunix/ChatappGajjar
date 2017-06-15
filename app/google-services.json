@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "203251317358",
+    "firebase_url": "https://chatapp-6f214.firebaseio.com",
+    "project_id": "chatapp-6f214",
+    "storage_bucket": "chatapp-6f214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203251317358:android:b4cc07345eec24c0",
+        "android_client_info": {
+          "package_name": "com.kanu_lp.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203251317358-c7t51sosjfg369sddldo2qrucc3m579k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNbIlfMBALP-oVaW67npGSQwr6FRwnNrQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
